@@ -1,0 +1,11 @@
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\bin\Debug\Data_Record.exe.config
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\bin\Debug\Data_Record.exe
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\bin\Debug\Data_Record.pdb
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\obj\Debug\Data_Record.csproj.AssemblyReference.cache
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\obj\Debug\Data_Record.csproj.SuggestedBindingRedirects.cache
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\obj\Debug\Data_Record.Properties.Resources.resources
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\obj\Debug\Data_Record.csproj.GenerateResource.cache
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\obj\Debug\Data_Record.csproj.CoreCompileInputs.cache
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\obj\Debug\Data_Record.exe
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\obj\Debug\Data_Record.pdb
+D:\10. AUTOMATION\29. SNG\9. DataRecord System\Data_Record\Data_Record\obj\Debug\WindowsFormsApp2.RJControls.RJTextBox.resources
